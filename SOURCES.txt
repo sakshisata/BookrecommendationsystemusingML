@@ -1,0 +1,8 @@
+README.md
+setup.py
+Books_Recommender_System_Using_Machine_Learning.egg-info/PKG-INFO
+Books_Recommender_System_Using_Machine_Learning.egg-info/SOURCES.txt
+Books_Recommender_System_Using_Machine_Learning.egg-info/dependency_links.txt
+Books_Recommender_System_Using_Machine_Learning.egg-info/requires.txt
+Books_Recommender_System_Using_Machine_Learning.egg-info/top_level.txt
+src/__init__.py
